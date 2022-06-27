@@ -1,4 +1,4 @@
-# A asynchronous Consumer and Producer API for Kafka with FastAPI in Python
+# An asynchronous Consumer and Producer API for Kafka with FastAPI in Python
 
 Create a simple asynchronous API that works the same time as a Kafka's producer and consumer with Python's FastAPI library. The entire explation of the projects can be found at my [blog post](https://vinybrasil.github.io/portfolio/kafkafastapiasync/).
 
